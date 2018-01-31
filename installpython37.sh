@@ -1,4 +1,4 @@
-./configure
-make
-make test
+sudo ./configure
+sudo make
+sudo make test
 sudo make install
